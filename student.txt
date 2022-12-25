@@ -1,0 +1,5 @@
+Student name: Md Al Amin Hasan
+Student number: 694455 
+Student class: IT-1A 
+Student GitHub website: Mdalaminhasan12.github.io
+Student GitHub repository: https://github.com/Mdalaminhasan12/Mdalaminhasan12.github.io
